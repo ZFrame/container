@@ -1,2 +1,1 @@
-# container
-PHP Dependency Manager
+# PHP Dependency Manager
